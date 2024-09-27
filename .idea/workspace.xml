@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6df2ba49-d296-4b31-95d0-7adf621fa053" name="Changes" comment="Correction of requests version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1c2s2_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/p1c2s2_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1c4s2_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/p1c4s2_script.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +18,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="first_branch" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
