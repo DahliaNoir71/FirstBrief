@@ -1,3 +1,4 @@
+#Exercice d'importation de package
 import boto3
 import numpy
 import requests
