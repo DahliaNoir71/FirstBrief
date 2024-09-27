@@ -1,3 +1,4 @@
+#Génération d'un graphique
 import matplotlib.pyplot as plt
 
 
