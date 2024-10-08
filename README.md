@@ -4,14 +4,13 @@ Bienvenue dans le projet **Premier Brief SIMPLON** !
 
 ## Description
 
-Ce projet est développé dans le cadre de la formation Simplon. Il contient des exercices et des projets visant à améliorer nos compétences en développement logiciel.
+Ce projet est développé dans le cadre de la formation Simplon. Il contient des exercices et des projets visant à améliorer nos compétences en développement logiciel, en se concentrant sur l'utilisation de bibliothèques Python telles que `numpy` et `matplotlib`.
 
 ## Structure du Projet
 
-- **src/** : Contient les fichiers source de l'application.
-- **tests/** : Contient les tests unitaires.
-- **docs/** : Documentation du projet.
-- **README.md** : Ce fichier, fournissant des informations de base sur le projet.
+- **p1c4s2_script.py** : Utilise `numpy` pour diverses opérations de calcul.
+- **p1c2s2_script.py** : Un autre script utilisant `numpy` pour des calculs spécialisés.
+- **generate_graph.py** : Génère des graphiques à l'aide de `matplotlib`.
 
 ## Prérequis
 
@@ -30,10 +29,28 @@ pip install -r requirements.txt
 
 ## Utilisation
 
-Pour lancer l'application, utilisez la commande suivante :
+### p1c4s2_script.py
+
+Ce script utilise `numpy` pour diverses opérations mathématiques :
 
 ```bash
-python src/main.py
+python p1c4s2_script.py
+```
+
+### p1c2s2_script.py
+
+Ce script utilise également `numpy` mais pour des calculs spécialisés :
+
+```bash
+python p1c2s2_script.py
+```
+
+### generate_graph.py
+
+Ce script génère des graphiques en utilisant `matplotlib` :
+
+```bash
+python generate_graph.py
 ```
 
 ## Tests
